@@ -1,5 +1,5 @@
 FROM ubuntu:xenial
-LABEL maintainer="Shahzaib Rashid <shahzaob.rashid@careem.com>"
+LABEL maintainer="Shahzaib Rashid <shehzaib.rashid@gmail.com>"
 
 ARG user=jenkins
 ARG group=jenkins
